@@ -1,5 +1,5 @@
-## SIMPLE PRACTICE WITH CSS * `GRID
-A simple `responsive css practice without any framework, just using css grid and media queries, using:
+## SIMPLE PRACTICE WITH CSS GRID
+A simple responsive css practice without any framework, just using css grid and media queries, using:
 * `display: grid;`: To create the cells we will need..
 * `repeat:` This allows us to make a loop in the style of javascript or any other programming language.
 * `auto-fit:` This reserved word does not allow to autocomplete an element within some columns or a grid in the spaces that are necessary.
