@@ -11,3 +11,6 @@ A simple responsive css practice without any framework, just using css grid and 
 * `grid-column: span 10;`: This command allows us to size the columns, you can also put `grid-column-end` or `grid-column-start` to size the start and end of the columns.
 * `span:` This command allows us to merge multiple columns or rows. giving it a number that would be the spaces we want to merge.
 * `grid-row: 2/12;`: It happens similarly to `grid-column` except this command resizes the rows, and the data `2/12` means it will start at row 2 through row 12.
+
+## TO END
+* Tests performed on Brave and Opera browsers.
