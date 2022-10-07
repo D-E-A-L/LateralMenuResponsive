@@ -13,5 +13,5 @@ Una sencilla practica de css responsive sin algun framework, solo utilizando css
 * `grid-row: 2/12;`: Sucede semejante a `grid-column` solo que este comando redimenciona las filas, y el dato `2/12` quiere decir que comenzara en la fila 2 hasta la fila 12.
 
 
-
+## PARA FINALIZAR
 - Pruebas realizadas en los navegadores Brave y Opera.
