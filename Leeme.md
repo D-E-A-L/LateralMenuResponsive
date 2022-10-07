@@ -11,3 +11,7 @@ Una sencilla practica de css responsive sin algun framework, solo utilizando css
 * `grid-column: span 10;`: Este comando nos permite dimencionar las columnas, tambien se podrian poner `grid-column-end` o `grid-column-start` para dimencionar el inicio y el final de la columnas.
 * `span`: Este comando nos permite fusionar varias columnas o filas. dandole un numero que serian los espacios que queremos fusionar.  
 * `grid-row: 2/12;`: Sucede semejante a `grid-column` solo que este comando redimenciona las filas, y el dato `2/12` quiere decir que comenzara en la fila 2 hasta la fila 12.
+
+
+
+- Pruebas realizadas en los navegadores Brave y Opera.
